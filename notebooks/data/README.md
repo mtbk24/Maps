@@ -1,0 +1,1 @@
+all_day.csv goes along with notebook:  Earthquake_Map.ipynb

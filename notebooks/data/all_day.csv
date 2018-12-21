@@ -1,0 +1,309 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-12-20T21:28:10.070Z,33.4923333,-116.7901667,4.28,1.02,ml,36,36,0.02172,0.17,ci,ci38401224,2018-12-20T21:39:22.100Z,"9km NE of Aguanga, CA",earthquake,0.18,0.46,0.111,26,reviewed,ci,ci
+2018-12-20T21:27:59.890Z,33.5028333,-116.793,5.08,0.62,ml,25,35,0.01132,0.14,ci,ci38401208,2018-12-20T21:35:09.769Z,"9km NE of Aguanga, CA",earthquake,0.21,0.63,0.119,17,reviewed,ci,ci
+2018-12-20T21:21:52.626Z,60.3408,-152.0402,90.9,2.4,ml,,,,0.57,ak,ak20524280,2018-12-20T21:28:16.137Z,"40km W of Cohoe, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T21:20:19.410Z,33.4833333,-116.7931667,4.1,1.93,ml,65,37,0.02958,0.21,ci,ci38401200,2018-12-20T21:31:37.900Z,"8km NE of Aguanga, CA",earthquake,0.17,0.5,0.109,27,reviewed,ci,ci
+2018-12-20T21:20:17.730Z,45.091,-111.7238333,-2,1.41,ml,15,108,0.265,0.18,mb,mb80329409,2018-12-20T21:32:17.190Z,"28km SE of Virginia City, Montana",quarry blast,0.6,31.61,0.042,5,reviewed,mb,mb
+2018-12-20T21:20:07.230Z,33.492,-116.786,5.57,0.49,ml,17,84,0.02359,0.12,ci,ci38401192,2018-12-20T21:41:18.384Z,"9km NE of Aguanga, CA",earthquake,0.33,0.8,0.131,8,reviewed,ci,ci
+2018-12-20T21:17:26.111Z,61.4238,-150.0379,42.8,1.4,ml,,,,0.59,ak,ak20524279,2018-12-20T21:20:43.029Z,"11km SSW of Big Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2018-12-20T21:10:41.640Z,33.4851667,-116.7945,5.28,1.75,ml,61,38,0.02757,0.22,ci,ci38401184,2018-12-20T21:25:02.380Z,"8km NE of Aguanga, CA",earthquake,0.2,0.76,0.111,27,reviewed,ci,ci
+2018-12-20T21:05:33.942Z,61.4295,-150.0425,41.7,1.7,ml,,,,0.53,ak,ak20524274,2018-12-20T21:10:59.511Z,"11km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T20:51:47.424Z,60.3065,-150.787,40.4,2,ml,,,,0.39,ak,ak20524267,2018-12-20T20:54:23.331Z,"25km S of Sterling, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T20:50:04.090Z,19.3368333,-155.1433333,4.88,2.51,ml,52,105,0.04897,0.11,hv,hv70739736,2018-12-20T21:40:39.720Z,"14km SE of Volcano, Hawaii",earthquake,0.33,0.74,0.093,12,reviewed,hv,hv
+2018-12-20T20:47:49.887Z,61.3734,-150.018,33.5,2.6,ml,,,,0.77,ak,ak20524262,2018-12-20T20:58:14.729Z,"16km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T20:47:49.070Z,33.4976667,-116.7923333,5.77,0.67,ml,25,60,0.01612,0.16,ci,ci38401152,2018-12-20T20:53:40.405Z,"9km NE of Aguanga, CA",earthquake,0.26,0.65,0.12,19,reviewed,ci,ci
+2018-12-20T20:45:44.539Z,61.4973,-149.9435,34.5,1.5,ml,,,,0.69,ak,ak20524261,2018-12-20T20:49:31.031Z,"2km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T20:36:06.462Z,61.3264,-149.9744,41,1.3,ml,,,,0.44,ak,ak20524260,2018-12-20T20:38:58.087Z,"12km NNW of Anchorage, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T20:31:53.832Z,61.9893,-150.6701,60.6,1.4,ml,,,,0.35,ak,ak20524258,2018-12-20T21:37:28.370Z,"42km NW of Willow, Alaska",earthquake,,1.4,,,reviewed,ak,ak
+2018-12-20T20:29:44.965Z,37.9235,-118.6498,7.6,1.2,ml,13,80.96,0.067,0.1768,nn,nn00671110,2018-12-20T21:05:03.498Z,"41km NE of Mammoth Lakes, California",earthquake,,1.5,0.05,3,reviewed,nn,nn
+2018-12-20T20:29:19.480Z,33.494,-116.7945,5.94,1.37,ml,46,34,0.01896,0.18,ci,ci38401120,2018-12-20T20:53:43.910Z,"9km NE of Aguanga, CA",earthquake,0.19,0.61,0.11,28,reviewed,ci,ci
+2018-12-20T20:27:35.185Z,61.4663,-149.9763,34.1,2,ml,,,,0.77,ak,ak20524254,2018-12-20T20:35:16.400Z,"6km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T20:26:49.420Z,37.9290009,-118.6470032,2.87,2.19,md,23,143,0.1217,0.05,nc,nc73124751,2018-12-20T21:23:02.561Z,"41km N of Toms Place, CA",earthquake,0.3,2.88,0.16,20,automatic,nc,nc
+2018-12-20T20:26:40.190Z,33.5003333,-116.7941667,5.11,0.93,ml,34,36,0.01307,0.15,ci,ci38401112,2018-12-20T20:45:16.150Z,"9km NE of Aguanga, CA",earthquake,0.2,0.56,0.154,27,reviewed,ci,ci
+2018-12-20T20:22:37.868Z,61.3683,-150.0276,40.4,1.6,ml,,,,0.5,ak,ak20524252,2018-12-20T20:32:35.503Z,"17km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T20:22:15.740Z,33.4901667,-116.7948333,5.07,1.77,ml,60,27,0.02262,0.21,ci,ci38401096,2018-12-20T20:45:06.570Z,"8km NE of Aguanga, CA",earthquake,0.18,0.74,0.12,26,reviewed,ci,ci
+2018-12-20T20:18:22.940Z,33.4813333,-116.799,4.07,3.52,ml,129,13,0.03098,0.23,ci,ci38401064,2018-12-20T21:31:29.872Z,"8km NE of Aguanga, CA",earthquake,0.1,0.35,0.2,296,reviewed,ci,ci
+2018-12-20T20:14:58.534Z,61.3724,-150.07,20.5,2.1,ml,,,,0.88,ak,ak20524246,2018-12-20T20:20:01.908Z,"17km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T20:00:20.690Z,19.4195004,-155.2761688,0.3,1.87,ml,16,72,0.005399,0.14,hv,hv70739701,2018-12-20T20:06:10.940Z,"4km WSW of Volcano, Hawaii",earthquake,0.27,0.27,0.35,8,automatic,hv,hv
+2018-12-20T19:57:28.790Z,37.6508333,-118.858,4.44,0.37,md,15,117,0.02176,0.04,nc,nc73124726,2018-12-20T21:24:02.566Z,"11km E of Mammoth Lakes, CA",earthquake,0.59,0.65,0.129,12,reviewed,nc,nc
+2018-12-20T19:53:44.000Z,33.4983333,-116.7565,6.9,0.17,ml,12,114,0.03922,0.06,ci,ci38401016,2018-12-20T20:41:54.724Z,"10km SW of Anza, CA",earthquake,0.3,0.37,0.05,3,reviewed,ci,ci
+2018-12-20T19:49:42.990Z,38.8131676,-122.8281631,1.56,1.38,md,21,41,0.004366,0.04,nc,nc73124721,2018-12-20T20:37:03.240Z,"7km WNW of The Geysers, CA",earthquake,0.25,0.32,0.01,5,automatic,nc,nc
+2018-12-20T19:45:42.364Z,61.5232,-148.211,17.8,2.3,ml,,,,0.86,ak,ak20524194,2018-12-20T19:52:34.834Z,"40km ESE of Lazy Mountain, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-20T19:41:44.800Z,38.8128319,-122.8278351,1.31,0.99,md,17,46,0.004095,0.04,nc,nc73124711,2018-12-20T19:43:22.608Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.41,0.06,4,automatic,nc,nc
+2018-12-20T19:30:36.965Z,38.3557,-118.921,5.7,1.7,ml,14,128.42,0.343,0.138,nn,nn00671082,2018-12-20T20:06:11.928Z,"29km ENE of Bridgeport, California",earthquake,,2.1,0.33,2,reviewed,nn,nn
+2018-12-20T19:29:20.420Z,33.7668333,-117.5281667,6.66,0.9,ml,8,120,0.07311,0.1,ci,ci38400992,2018-12-20T19:44:45.653Z,"12km SSE of Corona, CA",earthquake,0.31,1.3,0.126,13,reviewed,ci,ci
+2018-12-20T19:27:11.462Z,38.3905,-118.9269,8,2.2,ml,23,64.16,0.143,0.1787,nn,nn00671078,2018-12-20T19:57:20.859Z,"30km WSW of Hawthorne, Nevada",earthquake,,1.7,0.34,11,reviewed,nn,nn
+2018-12-20T19:26:09.340Z,1.8318,127.272,124.1,4.9,mb,,109,1.057,0.94,us,us2000ivis,2018-12-20T19:44:15.040Z,"82km W of Tobelo, Indonesia",earthquake,4.6,7.9,0.082,46,reviewed,us,us
+2018-12-20T19:19:59.454Z,61.3961,-150.0441,45.8,1.6,ml,,,,0.32,ak,ak20524189,2018-12-20T19:23:15.659Z,"14km SSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T18:57:03.660Z,44.8763333,-111.5171667,13.21,1.04,ml,8,141,0.077,0.09,mb,mb80329399,2018-12-20T21:08:15.990Z,"40km NW of West Yellowstone, Montana",earthquake,0.44,0.72,0.388,3,reviewed,mb,mb
+2018-12-20T18:55:05.619Z,61.4326,-149.933,34.5,2,ml,,,,0.79,ak,ak20524177,2018-12-20T19:05:01.637Z,"9km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T18:51:17.710Z,34.1976667,-118.588,19.95,1.67,ml,21,59,0.05734,0.2,ci,ci38400968,2018-12-20T19:15:31.398Z,"2km E of Canoga Park, CA",earthquake,0.49,0.8,0.227,29,reviewed,ci,ci
+2018-12-20T18:43:27.620Z,17.8146,-66.6535,11,2.03,md,6,278,0.2707,0.15,pr,pr2018354011,2018-12-20T19:17:01.744Z,"21km SSE of Tallaboa, Puerto Rico",earthquake,1.02,0.79,0.23,5,reviewed,pr,pr
+2018-12-20T18:35:46.790Z,37.5371667,-118.8846667,4.38,0.61,md,11,197,0.0688,0.09,nc,nc73124686,2018-12-20T19:49:02.684Z,"14km SE of Mammoth Lakes, CA",earthquake,0.7,2.25,0.146,11,reviewed,nc,nc
+2018-12-20T18:34:11.380Z,61.4806,-149.8805,33.1,2.1,ml,,,,0.45,ak,ak20524112,2018-12-20T18:48:07.437Z,"6km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T18:33:58.450Z,37.5288333,-118.9838333,0.94,0.62,md,17,163,0.08516,0.05,nc,nc73124681,2018-12-20T19:59:02.842Z,"12km S of Mammoth Lakes, CA",earthquake,0.28,31.61,0.288,15,reviewed,nc,nc
+2018-12-20T18:30:59.000Z,54.9207,164.6295,10,5.1,mb,,125,4.009,0.78,us,us2000ivi9,2018-12-20T18:53:34.040Z,"92km WSW of Nikol'skoye, Russia",earthquake,10.2,1.9,0.039,215,reviewed,us,us
+2018-12-20T17:59:15.096Z,61.5206,-150.0189,49.5,2.5,ml,,,,0.73,ak,ak20524090,2018-12-20T18:04:56.461Z,"3km W of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T17:54:13.800Z,54.9233,164.6642,10,5,mb,,95,4.029,0.69,us,us2000ivhq,2018-12-20T18:09:28.040Z,"90km WSW of Nikol'skoye, Russia",earthquake,11.8,1.9,0.062,84,reviewed,us,us
+2018-12-20T17:49:18.900Z,54.8474,164.6597,10,5,mb,,160,3.994,0.87,us,us2000ivhm,2018-12-20T18:06:23.040Z,"93km WSW of Nikol'skoye, Russia",earthquake,5.9,1.9,0.069,67,reviewed,us,us
+2018-12-20T17:47:41.782Z,61.5098,-149.9213,40.9,2.5,ml,,,,0.61,ak,ak20524072,2018-12-20T17:51:02.837Z,"2km SE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T17:35:10.410Z,54.8647,164.6829,10,5.6,mb,,74,4.013,0.99,us,us2000ivgx,2018-12-20T19:37:07.226Z,"91km WSW of Nikol'skoye, Russia",earthquake,8.9,1.9,0.032,337,reviewed,us,us
+2018-12-20T17:34:00.752Z,61.4309,-150.113,38.5,2.3,ml,,,,0.55,ak,ak20524058,2018-12-20T17:46:29.217Z,"13km SW of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T17:31:24.240Z,19.1731,-66.448,25,2.21,md,5,328,0.7008,0.15,pr,pr2018354010,2018-12-20T19:03:16.569Z,"78km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.6,11,0.52,4,reviewed,pr,pr
+2018-12-20T17:28:40.260Z,33.5046667,-116.7961667,3.63,0.83,ml,39,35,0.008441,0.16,ci,ci38400960,2018-12-20T18:47:42.355Z,"9km NE of Aguanga, CA",earthquake,0.15,0.36,0.118,20,reviewed,ci,ci
+2018-12-20T17:27:50.664Z,58.948,-152.63,59.3,3.3,ml,,,,0.76,ak,ak20524041,2018-12-20T17:35:08.723Z,"98km SW of Homer, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2018-12-20T17:19:29.810Z,55.0684,164.867,10,5.6,mb,,99,4.198,0.96,us,us2000ivge,2018-12-20T19:21:21.849Z,"73km W of Nikol'skoye, Russia",earthquake,8.3,1.8,0.036,272,reviewed,us,us
+2018-12-20T17:04:13.370Z,38.8081665,-122.7523346,0.36,1.55,md,9,74,0.02616,0.01,nc,nc73124661,2018-12-20T18:03:03.816Z,"3km WSW of Cobb, CA",earthquake,0.28,0.8,0.28,3,automatic,nc,nc
+2018-12-20T17:03:17.688Z,61.3641,-149.8981,32.7,1.7,ml,,,,0.61,ak,ak20523946,2018-12-20T17:06:30.554Z,"16km N of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T17:02:11.667Z,61.3955,-150.088,39.9,2,ml,,,,0.67,ak,ak20523944,2018-12-20T17:08:41.368Z,"15km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T17:01:54.240Z,55.106,164.7089,9.59,7.4,mww,,24,4.134,0.82,us,us2000ivfw,2018-12-20T20:03:06.910Z,"82km W of Nikol'skoye, Russia",earthquake,7.9,3.7,0.058,29,reviewed,us,us
+2018-12-20T16:59:26.681Z,58.0001,-154.3184,15,1.3,ml,,,,0.7,ak,ak20523951,2018-12-20T21:13:10.270Z,"55km NNW of Larsen Bay, Alaska",earthquake,,1,,,reviewed,ak,ak
+2018-12-20T16:56:23.163Z,39.1028,-119.7339,11,0.4,ml,5,133.59,0.056,0.1092,nn,nn00671068,2018-12-20T18:12:03.634Z,"4km ENE of Indian Hills, Nevada",earthquake,,3.6,0,1,reviewed,nn,nn
+2018-12-20T16:51:52.220Z,53.5826,-164.0042,62.51,3.9,mb,,168,1.334,1.24,us,us2000ivfs,2018-12-20T21:07:37.711Z,"131km ESE of Akutan, Alaska",earthquake,4.9,12.8,0.115,23,reviewed,us,us
+2018-12-20T16:45:26.211Z,39.115,-119.726,8,1.6,ml,22,56.85,0.043,0.1664,nn,nn00670988,2018-12-20T18:09:29.329Z,"5km ENE of Indian Hills, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
+2018-12-20T16:36:04.780Z,44.7587,-111.4684,17.15,3.1,ml,,73,0.08,0.58,us,us2000ivfg,2018-12-20T20:25:33.130Z,"30km WNW of West Yellowstone, Montana",earthquake,1.5,3.5,0.05,53,reviewed,us,us
+2018-12-20T16:34:17.946Z,61.4909,-149.9114,38.7,1.2,ml,,,,0.48,ak,ak20523934,2018-12-20T16:37:03.869Z,"4km SE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T16:32:52.857Z,59.8387,-152.2888,70.9,1.3,ml,,,,0.27,ak,ak20523933,2018-12-20T20:59:55.433Z,"26km WNW of Anchor Point, Alaska",earthquake,,1,,,reviewed,ak,ak
+2018-12-20T16:29:45.410Z,44.7665,-111.4486667,14.05,1.43,ml,24,88,0.066,0.16,mb,mb80329329,2018-12-20T20:57:34.900Z,"29km WNW of West Yellowstone, Montana",earthquake,0.39,0.58,0.1,10,reviewed,mb,mb
+2018-12-20T16:24:24.240Z,38.8196678,-122.7893295,0.43,1.27,md,19,44,0.01663,0.04,nc,nc73124651,2018-12-20T17:10:03.135Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.44,0.09,5,automatic,nc,nc
+2018-12-20T16:18:42.773Z,39.1149,-119.7261,7.9,0.8,ml,15,80.95,0.043,0.1864,nn,nn00671066,2018-12-20T18:12:02.433Z,"5km ENE of Indian Hills, Nevada",earthquake,,1.1,0.54,5,reviewed,nn,nn
+2018-12-20T16:16:00.980Z,32.3691667,-115.2121667,10.24,1.45,ml,6,283,0.0932,0.09,ci,ci38400856,2018-12-20T20:30:28.165Z,"2km NW of Delta, B.C., MX",earthquake,1.23,0.44,0.161,4,reviewed,ci,ci
+2018-12-20T15:58:05.989Z,39.1148,-119.7297,9.6,1.1,ml,8,129.18,0.044,0.1641,nn,nn00671064,2018-12-20T17:56:19.473Z,"5km NE of Indian Hills, Nevada",earthquake,,2.4,0.18,3,reviewed,nn,nn
+2018-12-20T15:56:21.549Z,61.3809,-150.0304,38.3,2,ml,,,,0.66,ak,ak20523926,2018-12-20T16:04:17.208Z,"16km SSW of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T15:54:00.388Z,61.3351,-150.0446,36.4,1.5,ml,,,,0.57,ak,ak20523922,2018-12-20T15:57:45.027Z,"15km NNW of Anchorage, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2018-12-20T15:52:40.030Z,37.6471667,-118.8578333,4.79,1,md,23,103,0.01971,0.04,nc,nc73124641,2018-12-20T18:31:03.085Z,"11km E of Mammoth Lakes, CA",earthquake,0.29,0.35,0.29,21,reviewed,nc,nc
+2018-12-20T15:43:29.153Z,39.1139,-119.7299,10.8,1,ml,7,129.52,0.045,0.1477,nn,nn00670987,2018-12-20T16:15:01.339Z,"5km ENE of Indian Hills, Nevada",earthquake,,3,0.36,3,reviewed,nn,nn
+2018-12-20T15:41:21.274Z,61.4141,-150.0985,36.2,2.1,ml,,,,0.68,ak,ak20523895,2018-12-20T15:53:03.823Z,"14km SSW of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2018-12-20T15:32:12.080Z,18.8837,145.3841,237.98,4.5,mb,,87,5.287,0.92,us,us2000ive4,2018-12-20T17:10:18.040Z,"32km WNW of Agrihan, Northern Mariana Islands",earthquake,8.6,6.6,0.059,85,reviewed,us,us
+2018-12-20T15:28:39.290Z,36.5276667,-89.5755,7.87,1.69,md,17,52,0.02926,0.05,nm,nm60222422,2018-12-20T18:31:31.060Z,"7km SSW of New Madrid, Missouri",earthquake,0.37,0.68,0.128,11,reviewed,nm,nm
+2018-12-20T15:25:53.700Z,33.504,-116.7996667,4.79,0.32,ml,18,110,0.008367,0.15,ci,ci38400816,2018-12-20T19:06:09.940Z,"9km NE of Aguanga, CA",earthquake,0.25,0.56,0.108,3,reviewed,ci,ci
+2018-12-20T15:18:19.901Z,61.3978,-150.0317,34.3,1.8,ml,,,,0.63,ak,ak20523891,2018-12-20T15:20:56.489Z,"14km SSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T15:13:13.950Z,36.6748352,-121.2926636,-0.08,1.84,md,14,145,0.06625,0.04,nc,nc73124631,2018-12-20T15:43:02.535Z,"13km S of Tres Pinos, CA",earthquake,0.37,1.06,0.29,13,automatic,nc,nc
+2018-12-20T15:10:49.020Z,18.334,-65.9321,4,1.9,md,4,256,0.1535,0.09,pr,pr2018354008,2018-12-20T19:02:17.408Z,"3km W of Campo Rico, Puerto Rico",earthquake,0.94,0.46,0.46,4,reviewed,pr,pr
+2018-12-20T15:08:20.490Z,61.5285,-149.9141,40.8,1.4,ml,,,,0.39,ak,ak20523889,2018-12-20T15:14:14.930Z,"2km ENE of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T15:06:32.061Z,63.0326,-150.4931,3,1.6,ml,,,,0.46,ak,ak20523887,2018-12-20T15:11:33.747Z,"81km NNW of Talkeetna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T15:02:25.330Z,5.737,125.7951,116.47,4.6,mb,,53,1.341,1.05,us,us2000ivdu,2018-12-20T15:44:33.040Z,"26km SE of Caburan, Philippines",earthquake,7.5,5.9,0.066,68,reviewed,us,us
+2018-12-20T14:48:25.610Z,17.905,-66.7178,17,1.78,md,5,245,0.176,0.17,pr,pr2018354009,2018-12-20T18:33:33.168Z,"9km S of Tallaboa, Puerto Rico",earthquake,1.27,1.65,0.13,3,reviewed,pr,pr
+2018-12-20T14:45:24.130Z,39.1202,-119.7269,9.7,0.4,ml,4,129.42,0.071,0.1307,nn,nn00670985,2018-12-20T16:02:41.097Z,"5km SE of Carson City, Nevada",earthquake,,6,0,1,reviewed,nn,nn
+2018-12-20T14:43:33.780Z,36.1183333,-117.5701667,2.73,1.48,ml,18,67,0.08915,0.17,ci,ci38400776,2018-12-20T15:02:38.620Z,"35km ENE of Coso Junction, CA",earthquake,0.33,0.71,0.193,23,reviewed,ci,ci
+2018-12-20T14:42:59.924Z,39.1178,-119.722,9.1,0.6,ml,7,128.66,0.099,0.1829,nn,nn00670984,2018-12-20T18:49:16.816Z,"6km SE of Carson City, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
+2018-12-20T14:37:22.779Z,61.4481,-150.0349,34.5,1.6,ml,,,,0.59,ak,ak20523883,2018-12-20T14:44:07.806Z,"9km SSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T14:34:29.780Z,33.5006667,-116.7975,2.91,1.46,ml,57,32,0.01191,0.2,ci,ci38400768,2018-12-20T15:02:42.760Z,"9km NE of Aguanga, CA",earthquake,0.18,0.54,0.165,27,reviewed,ci,ci
+2018-12-20T14:31:23.500Z,33.5043333,-116.796,3.5,0.69,ml,27,61,0.008801,0.14,ci,ci38400760,2018-12-20T15:02:16.112Z,"9km NE of Aguanga, CA",earthquake,0.21,0.47,0.146,21,reviewed,ci,ci
+2018-12-20T14:29:57.659Z,61.452,-149.9186,34.8,1.6,ml,,,,0.72,ak,ak20523879,2018-12-20T14:34:35.007Z,"7km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T14:29:05.865Z,61.3906,-150.059,41.1,1.6,ml,,,,0.82,ak,ak20523878,2018-12-20T14:32:54.431Z,"15km SSW of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T14:21:47.403Z,59.6439,-136.6546,0,2.4,ml,,,,1.12,ak,ak20523855,2018-12-20T14:31:13.790Z,"78km WNW of Skagway, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T14:16:47.895Z,39.116,-119.7237,8,1.2,ml,17,106.41,0.042,0.1652,nn,nn00670965,2018-12-20T15:56:29.110Z,"6km SE of Carson City, Nevada",earthquake,,1.1,0.34,7,reviewed,nn,nn
+2018-12-20T14:13:15.760Z,33.5095,-116.7983333,2.99,0.49,ml,18,70,0.003322,0.16,ci,ci38400752,2018-12-20T14:22:32.632Z,"10km NE of Aguanga, CA",earthquake,0.29,0.74,0.095,12,reviewed,ci,ci
+2018-12-20T14:07:55.500Z,61.1039,-151.0056,53.8,1.7,ml,,,,0.53,ak,ak20523850,2018-12-20T14:13:19.790Z,"48km NNE of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T14:02:41.420Z,61.4982,-149.903,33.6,1.7,ml,,,,0.22,ak,ak20523847,2018-12-20T14:09:28.408Z,"3km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T14:02:23.454Z,39.105,-119.7234,11.1,0.3,ml,3,166.34,0.097,0.0229,nn,nn00670982,2018-12-20T15:41:00.125Z,"5km ENE of Indian Hills, Nevada",earthquake,,5.7,0.02,2,reviewed,nn,nn
+2018-12-20T14:00:01.138Z,61.4995,-149.9306,33.4,1.6,ml,,,,0.64,ak,ak20523846,2018-12-20T14:05:47.359Z,"2km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T13:59:11.055Z,39.1021,-119.7291,9,0.5,ml,3,162.82,0.101,0.0298,nn,nn00671112,2018-12-20T21:14:18.948Z,"5km ENE of Indian Hills, Nevada",earthquake,,6.7,0,1,reviewed,nn,nn
+2018-12-20T13:57:45.865Z,39.1035,-119.727,9.6,0.1,ml,3,164.42,0.1,0.0336,nn,nn00670981,2018-12-20T15:37:54.796Z,"5km ENE of Indian Hills, Nevada",earthquake,,5.2,0.09,2,reviewed,nn,nn
+2018-12-20T13:57:07.830Z,33.5118333,-116.7956667,4.31,0.92,ml,29,58,0.003949,0.23,ci,ci38400744,2018-12-20T14:22:30.503Z,"10km NE of Aguanga, CA",earthquake,0.35,0.55,0.151,9,reviewed,ci,ci
+2018-12-20T13:56:05.180Z,33.4951667,-116.8048333,2.84,2.52,ml,112,19,0.01756,0.21,ci,ci38400736,2018-12-20T20:36:06.689Z,"8km NE of Aguanga, CA",earthquake,0.11,0.35,0.15,136,reviewed,ci,ci
+2018-12-20T13:47:53.861Z,39.1034,-119.7315,9.1,0.4,ml,6,133.56,0.055,0.0861,nn,nn00670980,2018-12-20T15:34:49.439Z,"4km ENE of Indian Hills, Nevada",earthquake,,3.1,0,1,reviewed,nn,nn
+2018-12-20T13:46:05.310Z,46.8706667,-112.5276667,14.19,1.24,ml,9,102,0.122,0.1,mb,mb80329374,2018-12-20T20:27:06.990Z,"15km SE of Lincoln, Montana",earthquake,0.37,0.67,0.059,2,reviewed,mb,mb
+2018-12-20T13:45:32.847Z,39.1142,-119.7285,9.4,1.1,ml,14,121.17,0.044,0.1935,nn,nn00670979,2018-12-20T15:34:48.494Z,"5km ENE of Indian Hills, Nevada",earthquake,,1.8,0.34,7,reviewed,nn,nn
+2018-12-20T13:44:45.603Z,39.1065,-119.731,7.6,0.7,ml,7,132.37,0.052,0.0822,nn,nn00670978,2018-12-20T15:28:36.759Z,"5km ENE of Indian Hills, Nevada",earthquake,,2.7,0.35,2,reviewed,nn,nn
+2018-12-20T13:43:06.171Z,39.1246,-119.7174,11.1,0.2,ml,3,184.79,0.098,0.0658,nn,nn00670977,2018-12-20T15:28:35.100Z,"6km SE of Carson City, Nevada",earthquake,,6.2,0.03,2,reviewed,nn,nn
+2018-12-20T13:42:50.430Z,34.1688333,-117.354,6.39,0.76,ml,28,86,0.03852,0.17,ci,ci38400712,2018-12-20T17:42:05.490Z,"2km NNW of Muscoy, CA",earthquake,0.24,0.48,0.229,6,reviewed,ci,ci
+2018-12-20T13:41:09.686Z,39.1038,-119.727,9.4,0.4,ml,3,164.66,0.1,0.0103,nn,nn00670976,2018-12-20T15:25:29.815Z,"5km ENE of Indian Hills, Nevada",earthquake,,5.9,0,1,reviewed,nn,nn
+2018-12-20T13:38:33.920Z,39.1039,-119.7256,9.7,0.1,ml,3,164.97,0.099,0.0223,nn,nn00670974,2018-12-20T15:22:24.480Z,"5km ENE of Indian Hills, Nevada",earthquake,,9.1,0,1,reviewed,nn,nn
+2018-12-20T13:37:57.840Z,37.5221672,-118.4293365,8.38,1.49,md,11,201,0.02814,0.03,nc,nc73124616,2018-12-20T14:27:04.763Z,"15km N of Dixon Lane-Meadow Creek, CA",earthquake,1.01,1.07,0.27,6,automatic,nc,nc
+2018-12-20T13:37:45.565Z,39.1162,-119.726,7.6,0.8,ml,16,81.63,0.042,0.1892,nn,nn00670973,2018-12-20T15:19:19.495Z,"6km SE of Carson City, Nevada",earthquake,,2.1,0.55,5,reviewed,nn,nn
+2018-12-20T13:35:55.517Z,39.0994,-119.7356,10.4,0.2,ml,4,159.46,0.106,0.0812,nn,nn00670972,2018-12-20T15:13:07.561Z,"4km ENE of Indian Hills, Nevada",earthquake,,5.7,0.01,2,reviewed,nn,nn
+2018-12-20T13:30:45.556Z,39.1141,-119.7309,7.7,3.1,ml,31,57.81,0.045,0.2278,nn,nn00670948,2018-12-20T21:27:21.422Z,"5km ENE of Indian Hills, Nevada",earthquake,,1,0.35,14,reviewed,nn,nn
+2018-12-20T13:29:46.600Z,34.2375,-117.471,13.38,0.71,ml,9,103,0.01011,0.09,ci,ci38400704,2018-12-20T19:31:06.660Z,"4km SE of Lytle Creek, CA",earthquake,0.44,0.73,0.096,5,reviewed,ci,ci
+2018-12-20T13:24:02.115Z,39.1166,-119.7284,8.5,3.6,ml,33,39.33,0.042,0.2236,nn,nn00670931,2018-12-20T21:09:45.232Z,"6km SE of Carson City, Nevada",earthquake,,1,0.24,14,reviewed,nn,nn
+2018-12-20T13:15:48.838Z,61.5136,-149.8851,37.1,1.4,ml,,,,0.46,ak,ak20523842,2018-12-20T13:19:17.427Z,"3km ESE of Big Lake, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2018-12-20T13:07:13.501Z,61.5124,-149.929,34.3,1.8,ml,,,,0.77,ak,ak20523841,2018-12-20T13:10:35.336Z,"1km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T13:05:39.798Z,61.3541,-150.0328,37.6,2.1,ml,,,,0.81,ak,ak20523839,2018-12-20T13:10:35.033Z,"16km NNW of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T12:58:31.247Z,61.4858,-149.92,8.2,1.2,ml,,,,1.34,ak,ak20523838,2018-12-20T13:01:42.675Z,"4km SSE of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T12:55:28.920Z,39.2396667,-111.4565,1.57,1.59,md,8,111,0.1023,0.21,uu,uu60307662,2018-12-20T17:35:16.220Z,"15km ESE of Manti, Utah",earthquake,0.83,14.33,0.408,4,reviewed,uu,uu
+2018-12-20T12:53:57.418Z,61.4698,-149.9372,33.7,1.7,ml,,,,0.44,ak,ak20523837,2018-12-20T12:57:31.609Z,"5km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T12:49:22.930Z,39.2456667,-111.475,4.84,3.12,ml,38,26,0.08897,0.21,uu,uu60307652,2018-12-20T16:10:24.744Z,"14km E of Manti, Utah",earthquake,0.35,0.77,0.136,22,reviewed,uu,uu
+2018-12-20T12:42:43.528Z,61.5099,-149.9012,33.8,1.9,ml,,,,0.62,ak,ak20523834,2018-12-20T12:50:49.951Z,"3km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T12:37:08.963Z,62.9661,-151.0397,116.2,1.8,ml,,,,0.3,ak,ak20523832,2018-12-20T12:41:47.272Z,"86km NNW of Talkeetna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2018-12-20T12:28:36.236Z,61.5546,-152.6411,11.6,1.7,ml,,,,1.28,ak,ak20523828,2018-12-20T12:32:35.236Z,"119km N of Redoubt Volcano, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T12:15:51.463Z,61.4001,-150.0782,36.2,1.6,ml,,,,0.64,ak,ak20523825,2018-12-20T12:19:22.260Z,"15km SSW of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2018-12-20T12:05:16.476Z,61.3563,-150.0276,38.9,1.6,ml,,,,0.43,ak,ak20523821,2018-12-20T12:09:10.019Z,"16km NNW of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T11:50:44.732Z,60.9479,-151.0756,63.5,1.9,ml,,,,0.55,ak,ak20523814,2018-12-20T11:55:56.756Z,"30km NNE of Nikiski, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T11:50:16.770Z,33.4261667,-116.6843333,13.52,0.9,ml,49,54,0.04709,0.17,ci,ci38400664,2018-12-20T17:33:44.565Z,"14km S of Anza, CA",earthquake,0.18,0.38,0.145,21,reviewed,ci,ci
+2018-12-20T11:49:47.060Z,39.1851,74.7205,10,4.6,mb,,62,2.281,0.92,us,us2000ivb7,2018-12-20T12:07:13.040Z,"102km ENE of Karakul, Tajikistan",earthquake,4.6,1.8,0.094,34,reviewed,us,us
+2018-12-20T11:49:31.241Z,61.4663,-149.9284,33.2,1.9,ml,,,,0.73,ak,ak20523810,2018-12-20T11:52:35.148Z,"6km SSE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-20T11:47:56.531Z,63.0193,-150.6359,4.9,2.2,ml,,,,1.04,ak,ak20523807,2018-12-20T11:55:57.059Z,"82km NNW of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T11:40:43.770Z,33.4333333,-116.676,12.01,0.35,ml,11,155,0.0585,0.07,ci,ci38400656,2018-12-20T14:23:34.556Z,"14km S of Anza, CA",earthquake,0.36,0.63,0.074,7,reviewed,ci,ci
+2018-12-20T11:37:02.540Z,33.4383333,-116.6821667,14.8,0.48,ml,15,149,0.05452,0.19,ci,ci38400648,2018-12-20T14:23:51.822Z,"13km S of Anza, CA",earthquake,0.53,0.92,0.128,10,reviewed,ci,ci
+2018-12-20T11:29:22.467Z,61.2249,-149.9051,35.8,2.5,ml,,,,0.64,ak,ak20523793,2018-12-20T11:41:11.800Z,"0km NNW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T11:26:24.406Z,61.4221,-149.98,11,2.6,ml,,,,0.9,ak,ak20523785,2018-12-20T11:35:00.162Z,"11km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T11:24:33.540Z,36.3113333,-89.5321667,9.31,1.56,md,22,46,0.03083,0.06,nm,nm60222417,2018-12-20T14:06:54.840Z,"6km NW of Ridgely, Tennessee",earthquake,0.18,0.36,0.052,12,reviewed,nm,nm
+2018-12-20T11:24:30.470Z,33.4336667,-116.6791667,13.34,0.63,ml,27,57,0.05857,0.13,ci,ci38400640,2018-12-20T14:25:00.380Z,"14km S of Anza, CA",earthquake,0.23,0.56,0.184,20,reviewed,ci,ci
+2018-12-20T11:22:03.098Z,61.3793,-150.1132,39,1.2,ml,,,,0.59,ak,ak20523763,2018-12-20T11:25:16.274Z,"17km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T11:21:44.830Z,33.4215,-116.6965,11.86,2.64,ml,116,18,0.05773,0.19,ci,ci38400632,2018-12-20T20:37:41.424Z,"15km S of Anza, CA",earthquake,0.11,0.29,0.139,148,reviewed,ci,ci
+2018-12-20T11:13:41.500Z,61.4441,-149.9331,36.4,1.6,ml,,,,0.71,ak,ak20523756,2018-12-20T11:18:04.546Z,"8km S of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T11:08:11.680Z,39.1005,74.7699,8.01,5.1,mww,,54,2.332,1.04,us,us2000ivaw,2018-12-20T11:23:26.040Z,"105km E of Karakul, Tajikistan",earthquake,6.5,4.4,0.073,18,reviewed,us,us
+2018-12-20T11:03:15.530Z,36.6188316,-121.2253342,4.54,2.07,md,22,132,0.05223,0.06,nc,nc73124586,2018-12-20T11:22:03.311Z,"12km NW of Pinnacles, CA",earthquake,0.28,0.71,0.21,19,automatic,nc,nc
+2018-12-20T10:54:56.422Z,61.4592,-150.0386,38.3,1.5,ml,,,,0.45,ak,ak20523754,2018-12-20T10:58:10.058Z,"8km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T10:42:25.540Z,61.3927,-150.0502,34,1.5,ml,,,,0.31,ak,ak20523752,2018-12-20T10:44:57.126Z,"15km SSW of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-20T10:29:50.023Z,67.2132,-143.1779,4.7,1.9,ml,,,,0.98,ak,ak20523747,2018-12-20T10:43:16.514Z,"116km NE of Fort Yukon, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T10:24:00.770Z,33.7823333,-116.0566667,1.78,1.2,ml,43,112,0.1325,0.17,ci,ci38400624,2018-12-20T17:01:26.523Z,"16km NE of Coachella, CA",earthquake,0.17,0.3,0.16,25,reviewed,ci,ci
+2018-12-20T10:10:49.620Z,38.821,-111.4583333,4.03,1.4,md,7,97,0.04909,0.18,uu,uu60307647,2018-12-20T21:03:55.080Z,"38km ESE of Salina, Utah",earthquake,0.66,2.8,0.297,5,reviewed,uu,uu
+2018-12-20T09:44:11.181Z,61.2888,-152.0754,104.7,2.1,ml,,,,0.75,ak,ak20523725,2018-12-20T09:50:15.575Z,"79km NNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T09:34:39.856Z,61.3755,-149.9027,44.9,1.6,ml,,,,0.97,ak,ak20523723,2018-12-20T09:39:03.106Z,"16km S of Big Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2018-12-20T09:11:11.200Z,19.4161667,-155.2781667,-0.31,1.98,ml,25,56,0.005791,0.1,hv,hv70739266,2018-12-20T19:11:20.820Z,"4km WSW of Volcano, Hawaii",earthquake,0.1,0.13,0.158,10,reviewed,hv,hv
+2018-12-20T09:06:55.390Z,18.8455,-64.6158,39,3.48,md,15,337,1.4195,0.35,pr,pr2018354007,2018-12-20T11:51:14.168Z,"47km N of Road Town, British Virgin Islands",earthquake,2.89,16.92,0.16,11,reviewed,pr,pr
+2018-12-20T09:04:18.060Z,32.0145,-115.7563333,8.04,1.68,ml,16,195,0.1631,0.14,ci,ci38400616,2018-12-20T18:41:38.068Z,"60km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.45,0.76,0.219,11,reviewed,ci,ci
+2018-12-20T09:02:12.280Z,33.9373333,-118.264,9.75,1.59,ml,61,34,0.01338,0.26,ci,ci38400608,2018-12-20T16:50:05.574Z,"2km NNW of Willowbrook, CA",earthquake,0.22,0.48,0.203,53,reviewed,ci,ci
+2018-12-20T08:52:56.840Z,-19.3315,-63.9631,19.5,5,mb,,28,4.945,1.19,us,us2000ivae,2018-12-20T09:16:43.040Z,"35km E of Padilla, Bolivia",earthquake,7.2,4.4,0.047,146,reviewed,us,us
+2018-12-20T08:52:36.170Z,12.0911,-87.7352,38.77,4.5,mb,,150,0.899,0.56,us,us2000ivaf,2018-12-20T09:09:02.040Z,"74km SW of Corinto, Nicaragua",earthquake,4.6,9.3,0.062,75,reviewed,us,us
+2018-12-20T08:37:35.480Z,61.4924,-149.8792,33.7,1.7,ml,,,,0.63,ak,ak20523710,2018-12-20T08:48:32.838Z,"5km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T08:37:28.130Z,33.2308333,-116.0971667,9.11,0.96,ml,46,51,0.09557,0.19,ci,ci38400592,2018-12-20T16:30:09.295Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.2,0.59,0.152,17,reviewed,ci,ci
+2018-12-20T08:34:12.551Z,61.4758,-149.9232,44.1,1.6,ml,,,,0.52,ak,ak20523698,2018-12-20T08:37:49.608Z,"5km SSE of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T08:30:43.664Z,61.4494,-149.9833,34.5,2,ml,,,,0.51,ak,ak20523695,2018-12-20T08:35:08.790Z,"8km S of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-20T08:23:27.950Z,59.359,-153.429,-0.61,0.14,ml,7,181,0.008815,0.09,av,av70817119,2018-12-20T21:41:05.660Z,"94km ESE of Old Iliamna, Alaska",earthquake,0.18,0.46,0.297,7,reviewed,av,av
+2018-12-20T08:22:31.930Z,38.7394981,-122.725502,1.41,1.24,md,8,186,0.01989,0.03,nc,nc73124576,2018-12-20T09:11:03.393Z,"5km SW of Anderson Springs, CA",earthquake,0.51,0.92,0.06,3,automatic,nc,nc
+2018-12-20T08:19:20.420Z,33.4985,-116.7935,4.67,0.09,ml,19,109,0.01497,0.09,ci,ci38400584,2018-12-20T18:32:17.602Z,"9km NE of Aguanga, CA",earthquake,0.17,0.18,0.121,5,reviewed,ci,ci
+2018-12-20T08:16:47.539Z,38.3757,-115.851,0,1.5,ml,7,243.03,0.21,0.2421,nn,nn00670916,2018-12-20T18:40:01.258Z,"49km ENE of Warm Springs, Nevada",earthquake,,0,0.21,3,reviewed,nn,nn
+2018-12-20T08:10:11.330Z,38.8313332,-122.8116684,1.78,0.45,md,10,87,0.008024,0.01,nc,nc73124571,2018-12-20T08:45:04.236Z,"8km NW of The Geysers, CA",earthquake,0.4,0.52,,1,automatic,nc,nc
+2018-12-20T08:07:35.658Z,61.6146,-150.9467,75,1.4,ml,,,,0.58,ak,ak20523693,2018-12-20T08:10:43.418Z,"50km WSW of Willow, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T08:02:18.030Z,38.825,-111.4571667,5.9,1.34,md,5,189,0.052,0.12,uu,uu60307642,2018-12-20T20:57:42.140Z,"37km ESE of Salina, Utah",earthquake,2,4.5,0.235,4,reviewed,uu,uu
+2018-12-20T07:56:53.377Z,61.407,-150.0528,34.5,1.9,ml,,,,0.48,ak,ak20523690,2018-12-20T08:05:02.027Z,"13km SSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T07:48:25.080Z,34.0001667,-118.0135,7.04,1.49,ml,36,55,0.000794,0.2,ci,ci38400576,2018-12-20T18:23:41.650Z,"3km NE of Whittier, CA",earthquake,0.23,0.38,0.155,57,reviewed,ci,ci
+2018-12-20T07:48:24.770Z,33.9915,-118.0146667,11.18,1.54,ml,36,56,0.009491,0.23,ci,ci38400568,2018-12-20T16:21:24.980Z,"2km NE of Whittier, CA",earthquake,0.27,0.43,0.151,44,reviewed,ci,ci
+2018-12-20T07:48:10.130Z,33.9961667,-118.0093333,9.06,1.44,ml,56,53,0.005813,0.2,ci,ci38400560,2018-12-20T16:21:50.697Z,"3km NE of Whittier, CA",earthquake,0.21,0.37,0.188,29,reviewed,ci,ci
+2018-12-20T07:44:23.361Z,61.4089,-150.055,37,1.7,ml,,,,0.66,ak,ak20523684,2018-12-20T07:55:29.267Z,"13km SSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T07:37:41.048Z,61.4397,-150.0515,40.6,1.5,ml,,,,0.4,ak,ak20523674,2018-12-20T07:43:06.016Z,"10km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T07:27:45.228Z,63.254,-145.3142,3,2.3,ml,,,,0.88,ak,ak20523668,2018-12-20T07:39:14.625Z,"69km S of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T07:24:38.230Z,-4.8527,144.9169,118.26,4.9,mb,,44,3.71,1.01,us,us2000iva5,2018-12-20T07:41:04.040Z,"105km WNW of Madang, Papua New Guinea",earthquake,7.1,5.9,0.08,49,reviewed,us,us
+2018-12-20T07:24:22.000Z,33.4951667,-116.7895,4.99,0.26,ml,15,107,0.01941,0.09,ci,ci38400552,2018-12-20T18:10:56.944Z,"9km NE of Aguanga, CA",earthquake,0.21,0.4,0.212,3,reviewed,ci,ci
+2018-12-20T07:23:30.780Z,33.4895,-116.7928333,4.72,1.49,ml,60,36,0.02366,0.2,ci,ci38400544,2018-12-20T14:26:05.300Z,"8km NE of Aguanga, CA",earthquake,0.16,0.43,0.169,27,reviewed,ci,ci
+2018-12-20T07:20:55.423Z,64.8543,-147.2919,15,1.4,ml,,,,0.54,ak,ak20523666,2018-12-20T07:25:00.675Z,"11km NNE of North Pole, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T07:19:07.990Z,33.0368333,-116.4121667,11.7,0.8,ml,18,75,0.1447,0.16,ci,ci38400536,2018-12-20T14:25:45.279Z,"18km ESE of Julian, CA",earthquake,0.34,1.11,0.152,11,reviewed,ci,ci
+2018-12-20T07:18:04.230Z,51.8003333,-178.8455,4.56,0.5,mh,5,214,0.0236,0.05,av,av61867931,2018-12-20T21:23:00.460Z,"49km W of Tanaga Volcano, Alaska",earthquake,0.41,0.59,,0,reviewed,av,av
+2018-12-20T07:17:13.140Z,51.8003333,-178.8478333,4.58,0.42,ml,5,220,0.02322,0.08,av,av61867926,2018-12-20T21:18:38.270Z,"49km W of Tanaga Volcano, Alaska",earthquake,0.45,0.67,,1,reviewed,av,av
+2018-12-20T07:16:09.640Z,51.8003333,-178.8435,4.68,0.39,ml,5,210,0.02399,0.05,av,av61867921,2018-12-20T21:17:01.250Z,"49km W of Tanaga Volcano, Alaska",earthquake,0.44,0.61,,1,reviewed,av,av
+2018-12-20T07:14:29.800Z,51.7991667,-178.8523333,4.2,0.49,ml,5,227,0.02156,0.06,av,av70817114,2018-12-20T21:14:57.730Z,"49km W of Tanaga Volcano, Alaska",earthquake,0.46,0.59,0.202,3,reviewed,av,av
+2018-12-20T07:14:23.140Z,51.7895,-178.8336667,4.3,0.27,ml,5,159,0.01845,0.04,av,av61867916,2018-12-20T21:11:43.020Z,"48km WSW of Tanaga Volcano, Alaska",earthquake,0.37,0.63,0.146,4,reviewed,av,av
+2018-12-20T07:08:10.449Z,61.4324,-150.1108,16.9,3,ml,,,,0.99,ak,ak20523651,2018-12-20T16:31:17.482Z,"8km WSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T07:07:17.110Z,44.7481667,-110.9206667,7.45,0.27,md,8,101,0.06193,0.14,uu,uu60307637,2018-12-20T20:55:05.710Z,"17km ENE of West Yellowstone, Montana",earthquake,0.39,1.14,0.145,4,reviewed,uu,uu
+2018-12-20T07:04:08.433Z,61.4305,-150.0136,17.8,2.3,ml,,,,0.9,ak,ak20523643,2018-12-20T07:08:24.892Z,"10km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T07:03:59.315Z,61.4995,-150.0605,47.8,2.4,ml,,,,1,ak,ak20523644,2018-12-20T08:14:29.058Z,"6km WSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T07:01:57.230Z,52.0655,-175.9946667,3.5,0.3,ml,4,295,0.04575,0.04,av,av61867906,2018-12-20T21:06:56.680Z,"50km ENE of Adak, Alaska",earthquake,0.71,1.07,0.253,4,reviewed,av,av
+2018-12-20T06:57:08.520Z,33.5073333,-116.7998333,4.41,0.39,ml,28,47,0.005042,0.11,ci,ci38400528,2018-12-20T15:51:18.172Z,"9km NE of Aguanga, CA",earthquake,0.14,0.22,0.098,13,reviewed,ci,ci
+2018-12-20T06:48:33.706Z,62.2843,-150.0582,0,2.3,ml,,,,0.91,ak,ak20523638,2018-12-20T21:07:28.957Z,"5km SSE of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T06:46:26.100Z,33.7856667,-116.0581667,0.62,1.63,ml,39,50,0.1356,0.21,ci,ci38400520,2018-12-20T14:27:13.780Z,"16km NE of Coachella, CA",earthquake,0.28,0.7,0.182,25,reviewed,ci,ci
+2018-12-20T06:44:41.710Z,33.5165,-116.792,4.12,0.6,ml,28,56,0.008101,0.18,ci,ci38400512,2018-12-20T14:26:19.329Z,"11km NE of Aguanga, CA",earthquake,0.25,0.51,0.083,19,reviewed,ci,ci
+2018-12-20T06:43:53.570Z,19.3086667,-155.0606667,41.04,1.98,md,44,207,0.06849,0.12,hv,hv70739171,2018-12-20T20:55:28.900Z,"22km S of Fern Acres, Hawaii",earthquake,0.7,0.44,0.164,21,reviewed,hv,hv
+2018-12-20T06:41:52.450Z,38.8213348,-122.7863312,1.42,1.31,md,12,89,0.01574,0.02,nc,nc73124561,2018-12-20T07:47:02.919Z,"6km W of Cobb, CA",earthquake,0.31,0.45,0.28,3,automatic,nc,nc
+2018-12-20T06:38:42.060Z,38.8219986,-122.7870026,1.32,1.89,md,26,46,0.0158,0.04,nc,nc73124556,2018-12-20T07:21:04.766Z,"6km W of Cobb, CA",earthquake,0.18,0.36,0.1,8,automatic,nc,nc
+2018-12-20T06:37:39.151Z,61.7258,-149.7649,17.2,1.5,ml,,,,0.36,ak,ak20523633,2018-12-20T06:48:39.724Z,"11km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T06:34:25.030Z,40.6105,28.972,10,4.4,mb,,50,1.348,0.58,us,us2000iv9d,2018-12-20T20:09:43.299Z,"5km WSW of Kocadere, Turkey",earthquake,5.2,1.9,0.123,19,reviewed,us,us
+2018-12-20T06:34:23.220Z,19.344,-155.1131667,6.52,2.16,ml,31,137,0.04131,0.1,hv,hv70739161,2018-12-20T19:03:45.850Z,"16km SE of Volcano, Hawaii",earthquake,0.38,0.61,0.099,24,reviewed,hv,hv
+2018-12-20T06:32:57.528Z,59.9702,-152.4965,80.7,2,ml,,,,0.77,ak,ak20523629,2018-12-20T06:45:58.888Z,"43km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T06:27:52.800Z,18.1048,-68.0866,99,2.73,md,5,338,1.0406,0.22,pr,pr2018354006,2018-12-20T07:52:13.040Z,"54km SE of Boca de Yuma, Dominican Republic",earthquake,6.54,5.93,0.35,4,reviewed,pr,pr
+2018-12-20T06:26:27.050Z,33.8603333,-117.049,15.17,0.92,ml,36,63,0.08336,0.18,ci,ci38400504,2018-12-20T15:45:59.051Z,"10km SW of Beaumont, CA",earthquake,0.27,0.41,0.173,20,reviewed,ci,ci
+2018-12-20T06:22:20.447Z,61.4643,-149.9149,33.7,1.7,ml,,,,1.05,ak,ak20523619,2018-12-20T06:27:33.749Z,"6km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T06:18:36.540Z,50.6953,178.0056,10,4.3,mb,,127,3.253,0.79,us,us2000iv9b,2018-12-20T06:48:48.040Z,"143km SSW of Little Sitkin Island, Alaska",earthquake,11.2,1.9,0.067,62,reviewed,us,us
+2018-12-20T06:08:52.320Z,37.5023346,-121.4550018,5.59,1.18,md,8,102,0.05627,0.05,nc,nc73124546,2018-12-20T06:55:02.624Z,"23km WSW of Westley, CA",earthquake,0.33,1.04,0.04,6,automatic,nc,nc
+2018-12-20T05:57:22.764Z,61.3273,-150.1075,21.1,2.9,ml,,,,0.75,ak,ak20523599,2018-12-20T09:11:47.083Z,"16km NNW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T05:52:14.650Z,-16.225,167.681,19.3,4.5,mb,,75,0.899,0.61,us,us2000iv96,2018-12-20T06:24:31.040Z,"30km ESE of Lakatoro, Vanuatu",earthquake,7.5,5.2,0.113,23,reviewed,us,us
+2018-12-20T05:38:43.720Z,45.3733333333333,-121.6995,0.74,1.06,ml,6,150,,0.16,uw,uw61507587,2018-12-20T17:01:26.960Z,"22km E of Mount Hood Village, Oregon",earthquake,0.89,0.58,0.300670219853452,4,reviewed,uw,uw
+2018-12-20T05:37:58.546Z,61.4785,-149.9443,43.6,1.3,ml,,,,0.17,ak,ak20523598,2018-12-20T05:41:42.768Z,"4km S of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T05:31:58.583Z,61.5679,-150.3156,29,1.6,ml,,,,0.8,ak,ak20523595,2018-12-20T05:34:50.767Z,"19km WNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T05:26:19.144Z,60.4181,-147.4603,15.6,2.2,ml,,,,0.65,ak,ak20523597,2018-12-20T05:40:02.168Z,"77km ESE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T05:26:05.971Z,61.873,-151.0099,71.6,2.1,ml,,,,0.56,ak,ak20523591,2018-12-20T05:31:09.752Z,"53km WNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T05:16:16.820Z,23.7663,123.7512,30.9,4.6,mb,,82,0.971,1.05,us,us2000iv8y,2018-12-20T07:48:32.040Z,"76km SSW of Ishigaki, Japan",earthquake,7.3,5.4,0.095,33,reviewed,us,us
+2018-12-20T05:09:12.940Z,38.8255005,-122.8103333,1.59,0.63,md,15,76,0.002112,0.04,nc,nc73124541,2018-12-20T05:30:03.613Z,"7km NW of The Geysers, CA",earthquake,0.35,0.54,0.18,2,automatic,nc,nc
+2018-12-20T05:08:25.143Z,61.7046,-141.8039,14.8,1.6,ml,,,,0.3,ak,ak20523589,2018-12-20T05:11:15.358Z,"141km E of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T05:05:40.010Z,-19.9676,-69.3002,92.08,4.1,mb,,75,0.221,0.79,us,us2000iv8w,2018-12-20T06:14:29.697Z,"92km ENE of Iquique, Chile",earthquake,5.3,1.5,0.151,12,reviewed,us,us
+2018-12-20T04:55:52.320Z,36.6211667,-121.1583333,8.31,1.18,md,13,139,0.05208,0.07,nc,nc73124536,2018-12-20T21:40:21.185Z,"10km N of Pinnacles, CA",earthquake,0.36,0.84,0.22,13,reviewed,nc,nc
+2018-12-20T04:55:42.418Z,59.8338,-152.8873,93.4,2.1,ml,,,,0.63,ak,ak20523583,2018-12-20T05:07:03.962Z,"59km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T04:55:12.390Z,61.6635,-150.0997,6.6,1.3,ml,,,,0.68,ak,ak20523582,2018-12-20T05:07:04.285Z,"9km SSW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T04:52:21.620Z,36.8611667,-121.5878333,5.46,2.68,md,59,35,0.005023,0.1,nc,nc73124531,2018-12-20T21:02:37.629Z,"5km WNW of San Juan Bautista, CA",earthquake,0.16,0.37,0.173,73,reviewed,nc,nc
+2018-12-20T04:49:54.130Z,33.5151667,-116.7891667,2.79,0.31,ml,15,72,0.009751,0.11,ci,ci38400272,2018-12-20T14:26:36.222Z,"11km NE of Aguanga, CA",earthquake,0.22,0.33,0.084,6,reviewed,ci,ci
+2018-12-20T04:35:57.017Z,69.36,-143.8603,0,1.9,ml,,,,0.96,ak,ak20523578,2018-12-20T04:49:38.597Z,"86km S of Kaktovik, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2018-12-20T04:15:56.958Z,57.6319,-156.4905,99.3,2.3,ml,,,,0.79,ak,ak20523569,2018-12-20T04:24:33.051Z,"118km S of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2018-12-20T04:15:21.000Z,36.5646667,-121.1653333,2.88,0.87,md,8,140,0.01389,0.03,nc,nc73124526,2018-12-20T18:19:02.903Z,"4km NNW of Pinnacles, CA",earthquake,0.35,0.3,0.265,7,reviewed,nc,nc
+2018-12-20T04:00:37.530Z,-21.2086,-175.6911,117.21,4.8,mb,,85,5.815,0.86,us,us2000iv82,2018-12-20T04:16:57.040Z,"49km W of Havelu, Tonga",earthquake,11.4,8.1,0.101,30,reviewed,us,us
+2018-12-20T03:59:20.228Z,63.4381,-147.5371,8.3,1.7,ml,,,,0.63,ak,ak20523564,2018-12-20T04:04:28.319Z,"70km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T03:59:14.859Z,38.3544,-118.9157,6.8,1.3,ml,13,64.81,0.339,0.1418,nn,nn00670914,2018-12-20T18:33:46.662Z,"29km ENE of Bridgeport, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
+2018-12-20T03:58:48.940Z,18.8351,-67.0766,56,2.56,md,7,324,0.5854,0.21,pr,pr2018354005,2018-12-20T07:09:01.830Z,"37km N of Isabela, Puerto Rico",earthquake,2.16,3.56,0.13,5,reviewed,pr,pr
+2018-12-20T03:53:25.510Z,17.9223,-66.7298,13,1.76,md,4,235,0.1726,0.23,pr,pr2018354004,2018-12-20T07:08:48.475Z,"8km S of Tallaboa, Puerto Rico",earthquake,2.02,1.23,0.21,3,reviewed,pr,pr
+2018-12-20T03:53:15.960Z,33.4948333,-116.7931667,3.96,0.59,ml,19,66,0.01849,0.09,ci,ci38400264,2018-12-20T14:26:39.186Z,"9km NE of Aguanga, CA",earthquake,0.16,0.29,0.124,18,reviewed,ci,ci
+2018-12-20T03:52:27.210Z,52.072,-176.1153333,6.7,0.39,ml,4,119,0.03964,0.12,av,av61867706,2018-12-20T20:26:57.440Z,"42km ENE of Adak, Alaska",earthquake,0.53,1.16,0.062,3,reviewed,av,av
+2018-12-20T03:51:34.070Z,47.8735,-123.3035,42.86,1.54,ml,14,81,,0.19,uw,uw61507577,2018-12-20T17:17:55.870Z,"26km S of Port Angeles East, Washington",earthquake,0.7,1.18,0.117624583111359,8,reviewed,uw,uw
+2018-12-20T03:46:32.894Z,61.4058,-150.0883,15.5,2,ml,,,,0.57,ak,ak20523555,2018-12-20T04:00:06.905Z,"14km SSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T03:44:04.275Z,62.9929,-152.4229,8.6,1.6,ml,,,,0.43,ak,ak20523554,2018-12-20T03:51:24.905Z,"140km WNW of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T03:35:50.566Z,61.3837,-150.0837,45.5,1.3,ml,,,,0.26,ak,ak20523547,2018-12-20T03:38:19.326Z,"16km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T03:34:41.449Z,64.7738,-151.04,12.9,1.6,ml,,,,0.62,ak,ak20523543,2018-12-20T03:42:41.472Z,"31km SW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T03:33:16.186Z,61.4143,-150.0628,40.9,1.6,ml,,,,0.22,ak,ak20523541,2018-12-20T03:38:18.958Z,"13km SSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T03:33:00.906Z,64.5176,-151.5007,10.4,1.6,ml,,,,0.63,ak,ak20523540,2018-12-20T03:45:52.441Z,"67km SW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-20T03:28:28.329Z,61.3677,-150.1014,42.2,1.6,ml,,,,0.43,ak,ak20523539,2018-12-20T03:38:19.627Z,"18km SSW of Big Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T03:26:13.940Z,51.7251667,-177.0665,16.69,0.32,ml,4,294,0.1117,0.1,av,av61867691,2018-12-20T20:24:50.240Z,"33km WSW of Adak, Alaska",earthquake,3.57,3.09,0.06,3,reviewed,av,av
+2018-12-20T03:21:20.530Z,36.8506667,-112.3201667,5.95,1.5,md,5,176,0.4225,0.12,uu,uu60307627,2018-12-20T18:57:05.710Z,"21km ESE of Fredonia, Arizona",earthquake,1.26,31.61,0.188,3,reviewed,uu,uu
+2018-12-20T03:17:55.410Z,44.7323333,-111.0995,12.81,1.37,ml,14,71,0.06403,0.14,uu,uu60307622,2018-12-20T18:46:15.860Z,"7km N of West Yellowstone, Montana",earthquake,0.39,0.79,0.251,2,reviewed,uu,uu
+2018-12-20T03:17:55.320Z,44.7356667,-111.1018333,13.64,1.36,ml,13,73,0.06059,0.11,uu,uu60307617,2018-12-20T17:42:30.540Z,"8km N of West Yellowstone, Montana",earthquake,0.51,1.04,0.25,2,reviewed,uu,uu
+2018-12-20T03:16:22.840Z,33.7885,-116.91,11.46,0.74,ml,32,119,0.1018,0.14,ci,ci38400248,2018-12-20T15:37:40.122Z,"4km E of San Jacinto, CA",earthquake,0.29,0.41,0.083,12,reviewed,ci,ci
+2018-12-20T03:14:37.950Z,33.1316667,-116.6501667,2.85,0.97,ml,49,24,0.06712,0.18,ci,ci38400240,2018-12-20T15:31:19.926Z,"7km NW of Julian, CA",earthquake,0.15,0.23,0.137,27,reviewed,ci,ci
+2018-12-20T03:12:08.219Z,62.6438,-150.974,91.6,1.5,ml,,,,0.53,ak,ak20523535,2018-12-20T03:16:13.031Z,"57km NW of Talkeetna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2018-12-20T03:05:39.324Z,61.5051,-149.9297,39.8,1.5,ml,,,,0.71,ak,ak20523534,2018-12-20T03:09:31.436Z,"2km SE of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-20T03:03:44.900Z,-16.0457,-73.2908,78.72,4.3,mb,,143,3.645,0.95,us,us2000iv7y,2018-12-20T03:20:51.040Z,"88km NW of Camana, Peru",earthquake,9.2,11.8,0.189,8,reviewed,us,us
+2018-12-20T02:59:36.350Z,39.7476667,-110.9023333,-3.46,1.26,md,8,159,0.09426,0.17,uu,uu60307612,2018-12-20T18:39:33.300Z,"8km NNW of Helper, Utah",earthquake,0.62,1.34,0.137,6,reviewed,uu,uu
+2018-12-20T02:49:49.482Z,40.552,-119.6058,0,1.9,ml,6,248.26,0.63,0.1234,nn,nn00670911,2018-12-20T18:24:28.362Z,"19km W of Gerlach-Empire, Nevada",earthquake,,0,0.17,3,reviewed,nn,nn
+2018-12-20T02:48:28.335Z,61.4993,-149.9248,40.4,1.7,ml,,,,0.74,ak,ak20523531,2018-12-20T02:53:18.105Z,"2km SSE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-20T02:45:04.871Z,61.2849,-149.9417,44.8,1.6,ml,,,,0.71,ak,ak20523530,2018-12-20T02:47:56.394Z,"7km NNW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2018-12-20T02:26:01.881Z,61.5165,-149.9428,39.1,1.5,ml,,,,0.59,ak,ak20523526,2018-12-20T02:38:44.381Z,"0km SE of Big Lake, Alaska",earthquake,,2,,,automatic,ak,ak
+2018-12-20T02:25:43.869Z,39.414,-119.9866,9.1,0.3,ml,10,109.21,0.127,0.1023,nn,nn00670910,2018-12-20T18:15:11.340Z,"11km S of Verdi, Nevada",earthquake,,2.9,0.28,4,reviewed,nn,nn
+2018-12-20T02:12:11.360Z,40.5418,-119.6463,8.3,2.5,ml,12,137.8,0.613,0.3272,nn,nn00670905,2018-12-20T03:45:03.508Z,"23km W of Gerlach-Empire, Nevada",earthquake,,5.4,0.28,6,reviewed,nn,nn
+2018-12-20T02:06:36.440Z,38.5094986,-122.7363358,4.09,1.74,md,7,154,0.1324,0.05,nc,nc73124511,2018-12-20T04:15:04.211Z,"1km ESE of Larkfield-Wikiup, CA",earthquake,0.83,4.45,0.26,5,automatic,nc,nc
+2018-12-20T02:06:24.031Z,51.5205,-178.1052,42.8,1.8,ml,,,,0.43,ak,ak20523516,2018-12-20T19:30:27.305Z,"40km S of Tanaga Volcano, Alaska",earthquake,,4,,,reviewed,ak,ak
+2018-12-20T02:04:50.810Z,17.9106,-66.7171,18,1.93,md,5,243,0.2145,0.14,pr,pr2018354003,2018-12-20T04:29:33.936Z,"9km S of Tallaboa, Puerto Rico",earthquake,1.15,0.66,0.65,5,reviewed,pr,pr
+2018-12-20T02:04:26.760Z,-12.7229,169.9375,651.96,5.1,mb,,71,3.79,0.67,us,us2000iv7p,2018-12-20T02:19:55.040Z,"288km ENE of Sola, Vanuatu",earthquake,13.3,10.7,0.083,47,reviewed,us,us
+2018-12-20T02:04:09.050Z,38.8398323,-122.8366699,1.16,0.55,md,11,121,0.001547,0.02,nc,nc73124501,2018-12-20T02:05:48.753Z,"10km NW of The Geysers, CA",earthquake,0.33,0.47,,1,automatic,nc,nc
+2018-12-20T02:02:34.879Z,61.4805,-150.036,34.1,1.5,ml,,,,0.42,ak,ak20523512,2018-12-20T02:09:07.655Z,"6km SW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-20T01:59:23.600Z,38.8353348,-122.7851639,1.84,0.8,md,10,96,0.005078,0.01,nc,nc73124496,2018-12-20T02:18:03.241Z,"6km WNW of Cobb, CA",earthquake,0.41,0.42,0.05,2,automatic,nc,nc
+2018-12-20T01:59:11.959Z,62.9406,-151.3073,117.6,2,ml,,,,0.52,ak,ak20523515,2018-12-20T02:12:18.605Z,"92km NW of Talkeetna, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2018-12-20T01:46:32.363Z,61.4995,-150.0036,42.8,1.5,ml,,,,0.63,ak,ak20523509,2018-12-20T01:49:43.298Z,"3km SW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-20T01:35:07.220Z,18.6345,-66.7098,61,2.56,md,4,280,0.2912,0.31,pr,pr2018354002,2018-12-20T04:28:29.528Z,"17km N of Arecibo, Puerto Rico",earthquake,2.61,1.85,0.24,3,reviewed,pr,pr
+2018-12-20T01:30:34.190Z,33.0358333,-116.4286667,10.1,0.84,ml,31,88,0.1435,0.15,ci,ci38400232,2018-12-20T14:26:55.119Z,"17km ESE of Julian, CA",earthquake,0.28,0.55,0.15,17,reviewed,ci,ci
+2018-12-20T01:17:08.796Z,61.3885,-150.1194,31.3,2.1,ml,,,,0.76,ak,ak20523506,2018-12-20T01:21:57.805Z,"17km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T00:55:01.790Z,34.7275,-116.2981667,5.63,1.18,ml,12,81,0.1061,0.09,ci,ci38400208,2018-12-20T01:09:21.698Z,"13km W of Ludlow, CA",earthquake,0.21,0.87,0.211,15,reviewed,ci,ci
+2018-12-20T00:44:01.620Z,18.4481,-64.226,58,3.43,md,5,349,1.6514,0.31,pr,pr2018354001,2018-12-20T04:27:34.960Z,"41km E of Road Town, British Virgin Islands",earthquake,7.51,12.68,0.06,4,reviewed,pr,pr
+2018-12-20T00:43:53.230Z,63.5593,-147.8455,1.6,2.7,ml,,,,1.02,ak,ak20523495,2018-12-20T00:56:32.530Z,"58km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-20T00:41:48.230Z,19.3315,-155.2115,6.34,2.09,ml,48,74,0.04223,0.1,hv,hv70738856,2018-12-20T02:49:40.280Z,"11km SSE of Volcano, Hawaii",earthquake,0.24,0.41,0.155,26,reviewed,hv,hv
+2018-12-20T00:38:56.966Z,63.8324,-149.1682,115.9,1.7,ml,,,,0.3,ak,ak20523491,2018-12-20T00:49:09.985Z,"10km WSW of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2018-12-20T00:38:21.445Z,63.065,-150.3903,78.5,1.6,ml,,,,0.91,ak,ak20523490,2018-12-20T00:50:50.943Z,"81km WSW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2018-12-20T00:30:48.710Z,18.0588,-66.7978,12,1.35,md,5,156,0.1922,0.58,pr,pr2018354000,2018-12-20T04:25:59.336Z,"4km N of Guayanilla, Puerto Rico",earthquake,1.77,3.12,0.1,4,reviewed,pr,pr
+2018-12-20T00:23:03.907Z,61.4764,-149.9065,32.8,2,ml,,,,0.57,ak,ak20523487,2018-12-20T00:34:25.299Z,"5km SSE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-20T00:06:34.327Z,64.9366,-147.3002,4.6,1.4,ml,,,,0.66,ak,ak20523482,2018-12-20T00:11:11.255Z,"18km NE of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2018-12-19T23:39:32.540Z,34.8515,-118.79,-1.17,1.16,ml,11,72,0.07563,0.16,ci,ci38400152,2018-12-20T17:53:55.870Z,"7km E of Lebec, CA",quarry blast,0.4,31.61,0.12,6,reviewed,ci,ci
+2018-12-19T23:37:56.580Z,38.7663345,-122.8993301,4.89,1.6,md,18,219,0.04481,0.03,nc,nc73124471,2018-12-20T02:27:03.686Z,"11km ESE of Cloverdale, CA",earthquake,0.67,0.92,0.02,5,automatic,nc,nc
+2018-12-19T23:37:20.140Z,17.9145,-66.7303,13,2.06,md,5,239,0.2203,0.33,pr,pr2018353017,2018-12-20T04:24:43.112Z,"9km S of Tallaboa, Puerto Rico",earthquake,2.5,1.58,0.15,3,reviewed,pr,pr
+2018-12-19T23:36:38.920Z,33.4645,-116.5878333,10.64,1.73,ml,66,56,0.03243,0.17,ci,ci38400144,2018-12-20T00:00:41.350Z,"13km SE of Anza, CA",earthquake,0.15,0.26,0.147,26,reviewed,ci,ci
+2018-12-19T23:36:28.480Z,17.9206,-66.7303,13,2.28,md,4,237,0.2159,0.15,pr,pr2018353016,2018-12-20T04:23:29.512Z,"8km S of Tallaboa, Puerto Rico",earthquake,1.33,0.84,0.07,3,reviewed,pr,pr
+2018-12-19T23:35:30.400Z,45.6586666666667,-120.304666666667,-0.7,1.93,ml,12,189,,0.24,uw,uw61507572,2018-12-20T17:42:27.480Z,"38km ENE of Moro, Oregon",explosion,1.41,31.61,0.100916469785959,11,reviewed,uw,uw
+2018-12-19T23:30:09.024Z,61.4074,-150.024,34.3,1.5,ml,,,,0.38,ak,ak20523421,2018-12-19T23:37:43.470Z,"13km SSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-19T23:26:53.600Z,38.7598343,-122.9066696,5.51,1.8,md,23,125,0.05348,0.05,nc,nc73124461,2018-12-20T00:52:03.596Z,"11km ESE of Cloverdale, CA",earthquake,0.5,0.84,0.01,4,automatic,nc,nc
+2018-12-19T23:22:31.990Z,19.4636667,-154.8825,4.08,2.18,ml,27,180,0.03482,0.14,hv,hv70738746,2018-12-20T01:01:44.560Z,"3km E of Leilani Estates, Hawaii",earthquake,0.6,0.93,0.141,9,reviewed,hv,hv
+2018-12-19T23:19:57.704Z,61.3739,-150.1331,18.2,2.9,ml,,,,0.97,ak,ak20523416,2018-12-19T23:28:31.036Z,"18km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-19T23:12:36.890Z,46.4615,-122.359833333333,22.86,0.37,md,7,320,,0.08,uw,uw61507567,2018-12-20T17:57:21.000Z,"12km SSW of Morton, Washington",earthquake,0.92,0.85,0.00350306106691445,3,reviewed,uw,uw
+2018-12-19T23:11:25.416Z,61.4004,-150.1052,39,1.7,ml,,,,0.76,ak,ak20523414,2018-12-19T23:17:57.956Z,"15km SSW of Big Lake, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2018-12-19T23:07:49.166Z,61.3641,-150.0844,34.9,2.5,ml,,,,0.85,ak,ak20523401,2018-12-19T23:15:46.930Z,"18km SSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2018-12-19T23:01:53.870Z,33.8493333,-117.4893333,-0.63,1.16,ml,26,86,0.04872,0.23,ci,ci38400088,2018-12-19T23:31:15.072Z,"4km SE of Home Gardens, CA",quarry blast,0.5,31.61,0.141,19,reviewed,ci,ci
+2018-12-19T23:01:04.480Z,36.1285,-117.8695,3.31,0.06,ml,9,240,0.1217,0.08,ci,ci38400096,2018-12-19T23:25:57.500Z,"12km NE of Coso Junction, CA",earthquake,0.33,0.78,0.042,3,reviewed,ci,ci
+2018-12-19T22:56:59.680Z,46.8948333,-112.5031667,9.21,1.37,ml,12,108,0.121,0.12,mb,mb80329304,2018-12-20T15:59:29.540Z,"15km ESE of Lincoln, Montana",earthquake,0.49,0.62,0.052,2,reviewed,mb,mb
+2018-12-19T22:52:22.757Z,61.3882,-150.0841,38.6,1.5,ml,,,,0.73,ak,ak20523397,2018-12-19T22:58:31.964Z,"16km SSW of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2018-12-19T22:49:44.540Z,36.6875,-121.3166656,4.7,1.88,md,16,146,0.0765,0.03,nc,nc73124456,2018-12-20T00:00:03.105Z,"11km S of Tres Pinos, CA",earthquake,0.38,1.86,0.14,14,automatic,nc,nc
+2018-12-19T22:38:00.540Z,6.6536,126.2956,75.9,4.6,mb,,112,0.822,0.73,us,us2000iv65,2018-12-20T12:14:39.614Z,"21km E of Tibanbang, Philippines",earthquake,9.4,6.1,0.092,35,reviewed,us,us
+2018-12-19T22:36:02.640Z,33.5293333,-116.5738333,14.48,0.63,ml,22,84,0.03964,0.11,ci,ci38400072,2018-12-19T22:45:05.814Z,"10km ESE of Anza, CA",earthquake,0.22,0.33,0.167,11,reviewed,ci,ci
+2018-12-19T22:35:30.594Z,61.475,-149.9768,44,1.4,ml,,,,0.24,ak,ak20523337,2018-12-19T22:40:57.445Z,"5km SSW of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
+2018-12-19T22:30:38.457Z,61.4972,-149.9323,38.2,1.6,ml,,,,0.32,ak,ak20523335,2018-12-19T22:36:35.914Z,"2km SSE of Big Lake, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2018-12-19T22:27:27.950Z,17.9208,-66.7168,17,2.09,md,8,239,0.1646,0.14,pr,pr2018353015,2018-12-20T03:20:12.983Z,"8km S of Tallaboa, Puerto Rico",earthquake,0.73,1.14,0.28,6,reviewed,pr,pr
+2018-12-19T22:23:45.706Z,61.2808,-149.9556,40,1.7,ml,,,,0.51,ak,ak20523332,2018-12-19T22:30:44.090Z,"7km NNW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2018-12-19T22:10:12.960Z,33.5366667,-116.7145,2.48,1.12,ml,35,33,0.03441,0.16,ci,ci38400032,2018-12-20T20:44:57.640Z,"4km WSW of Anza, CA",earthquake,0.19,0.23,0.215,29,reviewed,ci,ci
+2018-12-19T22:07:48.930Z,49.3325,-120.597166666667,-0.23,2.18,ml,8,221,,0.51,uw,uw61507557,2018-12-20T18:23:13.890Z,"15km SSW of Princeton, Canada",explosion,6.02,31.61,0.186623633019388,6,reviewed,uw,uw
+2018-12-19T22:04:36.633Z,61.3989,-150.0944,33.3,1.9,ml,,,,0.58,ak,ak20523326,2018-12-19T22:09:08.350Z,"15km SSW of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2018-12-19T21:59:01.001Z,61.4832,-149.9122,34,1.6,ml,,,,0.69,ak,ak20523320,2018-12-19T22:10:49.285Z,"4km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2018-12-19T21:56:29.841Z,61.3921,-149.9917,34.4,1.7,ml,,,,0.69,ak,ak20523318,2018-12-19T22:09:08.634Z,"14km S of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
