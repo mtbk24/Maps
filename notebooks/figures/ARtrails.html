@@ -1,0 +1,312 @@
+
+        <!DOCTYPE html>
+        <head>
+            
+        
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+        
+        
+        
+            
+            <style>
+
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                }
+
+            #map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+            
+        
+            
+            <style> #map_ae90429a0ed84e0486eb4e5be5b2b9e1 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+        
+        
+        </head>
+        <body>
+            
+        
+            
+            <div class="folium-map" id="map_ae90429a0ed84e0486eb4e5be5b2b9e1" ></div>
+        
+        
+        
+        </body>
+        <script>
+            
+        
+            
+
+            var southWest = L.latLng(-90, -180);
+            var northEast = L.latLng(90, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            var map_ae90429a0ed84e0486eb4e5be5b2b9e1 = L.map('map_ae90429a0ed84e0486eb4e5be5b2b9e1', {
+                                           center:[36.2,-94.16],
+                                           zoom: 9,
+                                           maxBounds: bounds,
+                                           layers: [],
+                                           crs: L.CRS.EPSG3857
+                                         });
+            
+        
+        
+            
+            var tile_layer_c2e926943c7b4dd691d07de854f0bd54 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: 'Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+                    detectRetina: false
+                    }
+                ).addTo(map_ae90429a0ed84e0486eb4e5be5b2b9e1);
+
+        
+        
+            
+
+            var marker_0d1b86d7d6cf423ba3e1f9bb16a99ada = L.marker(
+                [36.038903,-94.22184],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_ae90429a0ed84e0486eb4e5be5b2b9e1);
+            
+        
+            
+
+                var icon_49f3f38e26014495be6990b7ed30701a = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'black',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_0d1b86d7d6cf423ba3e1f9bb16a99ada.setIcon(icon_49f3f38e26014495be6990b7ed30701a);
+            
+        
+            
+            var popup_b5e2094b122b465a81538fd9177f3fd6 = L.popup({maxWidth: '300'});
+
+            
+                var html_b6f1f79b764841cab1b19b67f417efca = $('         <div id="html_b6f1f79b764841cab1b19b67f417efca"                 style="width: 100.0%; height: 100.0%;">                 Kessler Mountain Trails</div>                 ')[0];
+                popup_b5e2094b122b465a81538fd9177f3fd6.setContent(html_b6f1f79b764841cab1b19b67f417efca);
+            
+
+            marker_0d1b86d7d6cf423ba3e1f9bb16a99ada.bindPopup(popup_b5e2094b122b465a81538fd9177f3fd6);
+
+            
+        
+        
+            
+
+            var marker_214c412767014323aee2d0a5f348e3d6 = L.marker(
+                [36.379506,-94.205891],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_ae90429a0ed84e0486eb4e5be5b2b9e1);
+            
+        
+            
+
+                var icon_c42694966df74f1cb9bd1e290cabe505 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_214c412767014323aee2d0a5f348e3d6.setIcon(icon_c42694966df74f1cb9bd1e290cabe505);
+            
+        
+            
+            var popup_70b80654b3244c009effddd78492b6c7 = L.popup({maxWidth: '300'});
+
+            
+                var html_7827ea5741904dd789579bb01783d54b = $('         <div id="html_7827ea5741904dd789579bb01783d54b"                 style="width: 100.0%; height: 100.0%;">                 Slaughter Penn Trails</div>                 ')[0];
+                popup_70b80654b3244c009effddd78492b6c7.setContent(html_7827ea5741904dd789579bb01783d54b);
+            
+
+            marker_214c412767014323aee2d0a5f348e3d6.bindPopup(popup_70b80654b3244c009effddd78492b6c7);
+
+            
+        
+        
+            
+
+            var marker_04b32632f0aa40d2aff7a1ecf523346c = L.marker(
+                [36.29182,-93.976314],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_ae90429a0ed84e0486eb4e5be5b2b9e1);
+            
+        
+            
+
+                var icon_d2f3707f8db14cae981663c6325c1ecc = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_04b32632f0aa40d2aff7a1ecf523346c.setIcon(icon_d2f3707f8db14cae981663c6325c1ecc);
+            
+        
+            
+            var popup_a05c21637d52467d986888a674fff3eb = L.popup({maxWidth: '300'});
+
+            
+                var html_9ca65a27c9644d2694a1f11ab51929e1 = $('         <div id="html_9ca65a27c9644d2694a1f11ab51929e1"                 style="width: 100.0%; height: 100.0%;">                 Hobbs State Park Trails</div>                 ')[0];
+                popup_a05c21637d52467d986888a674fff3eb.setContent(html_9ca65a27c9644d2694a1f11ab51929e1);
+            
+
+            marker_04b32632f0aa40d2aff7a1ecf523346c.bindPopup(popup_a05c21637d52467d986888a674fff3eb);
+
+            
+        
+        
+            
+
+            var marker_91e86f8459e5451b8a45dc47c41def66 = L.marker(
+                [36.435329,-93.760566],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_ae90429a0ed84e0486eb4e5be5b2b9e1);
+            
+        
+            
+
+                var icon_92e9c8e3379d4a34a1c78848d5a11c4a = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'black',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_91e86f8459e5451b8a45dc47c41def66.setIcon(icon_92e9c8e3379d4a34a1c78848d5a11c4a);
+            
+        
+            
+            var popup_69045a1ad7ed413cae8657b062a88439 = L.popup({maxWidth: '300'});
+
+            
+                var html_4e5a514d30c84fa8af86d86483e86633 = $('         <div id="html_4e5a514d30c84fa8af86d86483e86633"                 style="width: 100.0%; height: 100.0%;">                 Lake Leatherwood Trails</div>                 ')[0];
+                popup_69045a1ad7ed413cae8657b062a88439.setContent(html_4e5a514d30c84fa8af86d86483e86633);
+            
+
+            marker_91e86f8459e5451b8a45dc47c41def66.bindPopup(popup_69045a1ad7ed413cae8657b062a88439);
+
+            
+        
+        
+        
+        </script>
+        
